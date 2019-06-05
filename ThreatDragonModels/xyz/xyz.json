@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "xyz",
+    "owner": "kirtan",
+    "description": "kirtan"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "xyz",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "kirtan"
+  }
+}
